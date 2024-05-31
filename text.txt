@@ -1,0 +1,10 @@
+Hello! This is Aadita, Welcome to my speed typing test.
+White space characters \n are used to separate these sentences.
+This doesnt work on windows, Because of the curses module.
+It works better on Linux. 
+This is the fifth line, So i will be stopping here
+house several usual began stop object end eye care hold are he develop week language that between drive
+I have a sweet surprise for everyone
+This day is so sunny but i dont mind because summers are Fun
+So a random sentence will be picked from here, Goodluck
+I faced a lot of errors but thats okay because its finally complete
